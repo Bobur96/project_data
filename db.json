@@ -2,9 +2,9 @@
   "devices": [
     {
       "id": "2c8e",
-      "model": "dqw",
+      "model": "Russian model",
       "produced_year": "19.03.2024",
-      "category": "Food",
+      "category": "Car",
       "rec_price": "40000",
       "description": "done",
       "created_date": "03.03.2024",
@@ -13,9 +13,9 @@
     },
     {
       "id": "86f4",
-      "model": "dqw",
+      "model": "Model",
       "produced_year": "04.03.2024",
-      "category": "Food",
+      "category": "Electronic",
       "rec_price": "40000",
       "description": "done",
       "created_date": "03.03.2024",
@@ -24,9 +24,9 @@
     },
     {
       "id": "4491",
-      "model": "dqw",
+      "model": "Device",
       "produced_year": "04.03.2024",
-      "category": "Food",
+      "category": "Mobile",
       "rec_price": "400003",
       "description": "done",
       "created_date": "03.03.2024",
@@ -35,10 +35,10 @@
     },
     {
       "id": "efeb",
-      "model": "dqw",
+      "model": "Something",
       "produced_year": "04.03.2024",
-      "category": "Food",
-      "rec_price": "40000",
+      "category": "Car",
+      "rec_price": "44400",
       "description": "done",
       "created_date": "03.03.2024",
       "is_active": false,
@@ -46,22 +46,22 @@
     },
     {
       "id": "84ee",
-      "model": "dwd",
+      "model": "China model",
       "produced_year": "04.03.2024",
-      "category": "Device",
-      "rec_price": "3232",
-      "description": "fwqefwq",
+      "category": "Car",
+      "rec_price": "380000",
+      "description": "Description",
       "created_date": "03.03.2024",
       "is_active": true,
       "img": ""
     },
     {
       "id": "c372",
-      "model": "dwd",
+      "model": "Device model",
       "produced_year": "04.03.2024",
-      "category": "Device",
-      "rec_price": "3232",
-      "description": "fwqefwq",
+      "category": "Mobile",
+      "rec_price": "290000",
+      "description": "Test is done",
       "created_date": "03.03.2024",
       "is_active": true,
       "img": ""
@@ -70,20 +70,20 @@
       "id": "a014",
       "model": "test",
       "produced_year": "04.03.2024",
-      "category": "Device",
-      "rec_price": "222222",
-      "description": "fwef",
+      "category": "Electronic",
+      "rec_price": "500000",
+      "description": "Done",
       "created_date": "03.03.2024",
       "is_active": true,
       "img": ""
     },
     {
       "id": "d65e",
-      "model": "dqwd",
+      "model": "Done",
       "produced_year": "05.03.2024",
-      "category": "Food",
+      "category": "Mobile",
       "rec_price": "3232",
-      "description": "dwqd",
+      "description": "Everything is ok!",
       "created_date": "03.03.2024",
       "is_active": true,
       "img": ""
@@ -101,6 +101,20 @@
     {
       "id": "c372",
       "name": "Mobile"
+    }
+  ],
+  "resources": [
+    {
+      "id": "2c8e",
+      "file": "image"
+    },
+    {
+      "id": "a014",
+      "file": "file"
+    },
+    {
+      "id": "c372",
+      "file": "file"
     }
   ]
 }
